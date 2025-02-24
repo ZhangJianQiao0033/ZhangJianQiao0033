@@ -11,7 +11,7 @@
 - 😀 &nbsp;Do something to make myself happy
 - 📫 &nbsp;You can reach me via email zhangjianqiao0403@gmail.com
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning `web3`
+- 🌱 &nbsp;I’m currently learning WEB3
 - 👨‍💻 Read more about my projects at [bianyujie.cn](https://bianyujie.cn)
 - ⚡ &nbsp;Fun fact: I want to raise a cat 🐈
 
